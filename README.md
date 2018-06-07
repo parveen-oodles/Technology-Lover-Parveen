@@ -1,7 +1,7 @@
 ## Welcome to the new World of Knowledge Sharing
 
-### Markdown
-Hello All
+### Hello All
+
 
 
 ```markdown
@@ -19,7 +19,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) 
 ```
 
 
