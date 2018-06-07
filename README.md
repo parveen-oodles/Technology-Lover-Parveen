@@ -19,7 +19,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) 
+[Link](url) and ![Image](src)
 ```
 
 
