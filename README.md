@@ -2,24 +2,8 @@
 
 ### Hello All
 
+<b>I am working hard to develope this site much intractive and a big platform for all the developers over the world where all of you can share the knowledge and make the world better.</b>
 
+So wait a while i will come back here soon....
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
+Enjoy your day .....
